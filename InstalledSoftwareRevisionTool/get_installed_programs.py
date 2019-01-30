@@ -75,7 +75,7 @@ def delete_multiple_files(*args):
         try:
             os.remove(file)
         except Exception as e:
-            mdl.verbose("deleting {} produced the following error: {}".format(file, e))
+            print("deleting {} produced the following error: {}".format(file, e))
             pass 
 
 def create_installed_programs_list(output_path, nbits):
