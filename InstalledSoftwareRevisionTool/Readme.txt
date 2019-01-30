@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Python script searches the registry for a list installed programs (both 32 and 64 bit). It then combines the results into a markdown table. Tested on both Windows 7 and Windows 10.
+This Python script searches the registry for a of list installed programs on your computer (both 32 and 64 bit). It then combines the results into a markdown table with software name and version (see example below). Tested on both Windows 7 and Windows 10.
 
 The output looks like this:
 
@@ -12,7 +12,7 @@ The output looks like this:
 |---------------|----------|
 | AxCrypt 2.1.1547.0 | 2.1.1547.0 |
 | DB Browser for SQLite | 3.10.1 |
-| Deus Ex: Mankind Divided™ | N/A |
+| Deus Ex: Mankind Dividedâ„¢ | N/A |
 | Google Chrome | 72.0.3626.81 |
 | Google Update Helper | 1.3.33.23 |
 | Microsoft .NET Framework 4 Multi-Targeting Pack | 4.0.30319 |
