@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This Python script searches the registry for a of list installed programs on your computer (both 32 and 64 bit). It then combines the results into a markdown table with software name and version (see example below). Tested on both Windows 7 and Windows 10.
+This Python script searches the registry for a of list installed programs on your computer (both 32 and 64 bit). It then combines the results into a markdown table with names and versions saved in the 'results' subdirectory. Tested on both Windows 7 and Windows 10.
 
-The output looks like this:
+Example Output:
 
 | Name | Version |
 |---------------|----------|
